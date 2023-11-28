@@ -5,7 +5,7 @@
 // @description  Injects UchiDone v2.4.5
 // @author       YUFI
 // @match        *://*/*
-// @icon         https://cdn.jsdelivr.net/gh/igroshka/hackpack/uchihack/icons/192.png
+// @icon         https://cdn.jsdelivr.net/gh/igroshka/UchiDone/images/icons/cloud/blue/38.png
 // @grant        none
 // ==/UserScript==
 
